@@ -1,0 +1,6 @@
+{
+  "name": "Sfogatoio - Virtual Rage Room",
+  "description": "A high-intensity 3D first-person virtual rage room simulator. Smash TVs, bottles, furniture, ceramics, and windows with heavy weapons to release stress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
